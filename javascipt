@@ -1,0 +1,52 @@
+[
+    {
+        "inputs": [
+            "hello",
+            "hii",
+            "hay"
+        ],
+        "responses": [
+            "hii, how can i help you",
+            "Hello! How can I assist you today?",
+            "Hi there! What can I do for you?",
+            "How may I help?"
+        ]
+    },
+    {
+        "inputs": [
+            "who are you",
+            "hu are u",
+            "hu r u",
+            "introduce"
+        ],
+        "responses": [
+            "I am a very intelligent virtual assistant for your help sir",
+            "Everyone knows me as the name king khan, ohh no that's not my name obiously",
+            "very pleasure to introduce myself to you, i am gamora an a.i bot"
+        ]
+    },
+    {
+        "inputs": [
+            "what can you do",
+            "how can you help me"
+        ],
+        "responses": [
+            "i can be very helpful to you in many ways, just command",
+            "i can provide as much service as you train me",
+            "say anything u want , but with some limitations"
+        ]
+    },
+    {
+        "inputs": [
+            "can you help me with my math problem",
+            "maths",
+            "problem",
+            "question",
+            "help"
+        ],
+        "responses": [
+            "yes ,ofcourse i was developed for the help,but don't forgot to speak scan",
+            "sure, just command to scan"
+        ]
+    }
+]
